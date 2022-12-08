@@ -5,7 +5,7 @@ Hey, I'm Tony Denmely Full-Stack Developer.
 ## My stack
 
 - Front End - HTML, JS, ReactJS, TailwindCSS
-- Back End - Express, Firebase, NoSQL
+- Back End - Express, Firebase, SQLite
 - Mobile - React Native
 - UI - Figma
 
