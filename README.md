@@ -1,13 +1,10 @@
 # Tony Denmely
 
-Hey, I'm Tony Denmely Full-Stack Developer.
+Hey, I'm Tony Denmely Devops.
 
-## My stack
+## Technologies
 
-- Front End - HTML, JS, ReactJS, TailwindCSS
-- Back End - Express, Firebase, SQLite
-- Mobile - React Native
-- UI - Figma
+- Golang, JavaScript, Grafana, Prometheus, Jenkins, Docker, AWS
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@denmely_dev-BCFE2F?style=flat-square&labelColor=BCFE2F&logo=twitter&logoColor=black&link=https://twitter.com/denmely_dev)](https://twitter.com/denmely_dev) 
