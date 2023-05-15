@@ -4,31 +4,31 @@ Hey, I'm Tony Denmely Devops.
 
 ## Technologies
 
-Programming language
+### Programming language
 - Python, JavaScript, Shell Script
 
-Operating System
+### Operating System
 - Linux (Ubuntu), Windows
 
-Containers
+### Containers
 - Docker
 
-CI/CD Tool
+### CI/CD Tool
 - Jenkins
 
-Logs Management
+### Logs Management
 - Loki
 
-Infrastructure Monitoring
+### Infrastructure Monitoring
 - Grafana, Zabbix, Prometheus
 
-Cloud Providers
+### Cloud Providers
 - AWS
 
-Data Analytics
+### Data Analytics
 - Pandas
 
-No-Code/Low-Code
+### No-Code/Low-Code
 - FlutterFlow
 
 
