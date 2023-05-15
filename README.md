@@ -4,7 +4,32 @@ Hey, I'm Tony Denmely Devops.
 
 ## Technologies
 
-- Golang, JavaScript, Grafana, Prometheus, Jenkins, Docker, AWS
+Programming language
+- Python, JavaScript, Shell Script
+
+Operating System
+- Linux (Ubuntu), Windows
+
+Containers
+- Docker
+
+CI/CD Tool
+- Jenkins
+
+Logs Management
+- Loki
+
+Infrastructure Monitoring
+- Grafana, Zabbix, Prometheus
+
+Cloud Providers
+- AWS
+
+Data Analytics
+- Pandas
+
+No-Code/Low-Code
+- FlutterFlow
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@denmely_dev-BCFE2F?style=flat-square&labelColor=BCFE2F&logo=twitter&logoColor=black&link=https://twitter.com/denmely_dev)](https://twitter.com/denmely_dev) 
